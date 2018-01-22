@@ -32,7 +32,7 @@
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
                                         <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#acc-getting-started" href="#acc-getting-started-2">
-                                            What do I need to asdfasdfasdfasdfcreate a PayChat account?
+                                            What do I need to asdfasdfasdfasdfasdfasdf asdf asdfcreate a PayChat account?
                                         </a>
                                     </h4>
                                 </div>
