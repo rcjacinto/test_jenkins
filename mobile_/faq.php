@@ -12,7 +12,7 @@
                         </h1>
                     </div>
                     <div class="col-xs-12">
-                        <h1 id="getting-started">GETTING STARTED</h1>
+                        <h1 id="getting-started">GETTIasdfasdfNG STARTED</h1>
                         <div class="panel-group accordion accordion-faq" id="acc-getting-started">
                             <div class="panel panel-default">
                                 <div class="panel-heading ">
